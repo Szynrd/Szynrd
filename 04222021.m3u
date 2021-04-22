@@ -425,7 +425,6 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 	#BACK UP
-
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -460,3 +459,17 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15876
 
 	#BACK UP xXx
+#EXTINF:-1 tvg-id="A3BIKINITV.us" tvg-name="A3BIKINI TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ikorRe8.png" tvg-url="" group-title="xXx",A3BIKINI TV (720p)
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.fr" tvg-name="AdultIPTV.net Asian" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="xXx",AdultIPTV.net Asian
+http://cdn.adultiptv.net/asian.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.fr" tvg-name="AdultIPTV.net Lesbian" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="xXx",AdultIPTV.net Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.fr" tvg-name="AdultIPTV.net Lesbian" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults!_TV_2018_logo.png" tvg-url="" group-title="xXx",AdultIPTV.net Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.fr" tvg-name="AdultIPTV.net Live Cams" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="xXx",AdultIPTV.net Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
