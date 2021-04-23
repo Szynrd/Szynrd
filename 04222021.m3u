@@ -112,6 +112,9 @@ https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png" group-title="Entertainment",Showtime
 http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15869
 
+#EXTINF:-1 tvg-id="WarnerTV.us" tvg-name="Warner TV" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" tvg-url="" group-title="Movies",Warner TV
+http://203.154.243.89:11205/
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Movies HBO",HBO - Multi Audio
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
