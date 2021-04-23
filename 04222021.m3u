@@ -245,14 +245,14 @@ http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15924
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jwcphJJ/nba.jpg" group-title="Sports",NBA TV Philippines
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/PBA_Rush_logo.png/revision/latest/scale-to-width-down/2000?cb=20161115101642" group-title="Sports",PBA Rush
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/122.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Solar-sports-2016.png/revision/latest/scale-to-width-down/2000?cb=20161021013539" group-title="Sports",Solar Sports PH
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/118.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Oiniy-Extreme.png" group-title="Sports",Pinoy Xtreme
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/124.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/PBA_Rush_logo.png/revision/latest/scale-to-width-down/2000?cb=20161115101642" group-title="Sports",PBA Rush
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/122.m3u8
 
 #EXTINF:-1 tvg-id="FOXSportHD1.us" tvg-name="FOX Sport HD 1" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sports",FOX 1 Sports HD
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
