@@ -225,6 +225,12 @@ http://goiptv.co:8080/avatar/fVkKAhhBlr/8962
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="Movies",America's Funniest Videos
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.mes3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ghRbKpY.png" group-title="Movies",A&E (Best of)
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fitz.tmsimg.com/assets/s115679_ll_h15_aa.png" group-title="Movies",Absolute Reality by WEtv
+http://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
 	#SPORTS
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/9/2/9/92974648906048168f2b9fd2e9f3105b_icon.png" group-title="Sports",~ Sports ~
 http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
@@ -361,12 +367,6 @@ https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
 	#DOCUMENTARIES
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/9/2/9/92974648906048168f2b9fd2e9f3105b_icon.png" group-title="TAG",~ Documentaries ~
 https://fluxustv.blogspot.com@bit.ly/FluxusRelax?.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ghRbKpY.png" group-title="USA",A&E (Best of)
-https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://fitz.tmsimg.com/assets/s115679_ll_h15_aa.png" group-title="USA",Absolute Reality by WEtv
-http://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://609528.smushcdn.com/606234/wp-content/uploads/2020/01/National-Geographic-logo.jpg" group-title="Factual",NAT Geo (Fox Live)
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
