@@ -100,16 +100,16 @@ https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-fr
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-country="SAS" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-url="" group-title="Movies",Thrill (480p)
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="USA",American Horrors
+#EXTINF:0 tvg-id="ext" group-title="Movies",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Horror_Channel_logo.png/250px-Horror_Channel_logo.png" group-title="Entertainment",Horror Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Horror_Channel_logo.png/250px-Horror_Channel_logo.png" group-title="Movies",Horror Channel
 http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/13889
 
 #EXTINF:-1 tvg-logo="https://criticalpopcorn.files.wordpress.com/2019/03/share_logo.jpg" group-title="Movies",Rakuten TV (Family Movies)
 https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png" group-title="Entertainment",Showtime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png" group-title="Movies",Showtime
 http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15869
 
 #EXTINF:-1 tvg-id="WarnerTV.us" tvg-name="Warner TV" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" tvg-url="" group-title="Movies",Warner TV
@@ -130,10 +130,10 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/id/HBOHits.id.png" tvg-url="" group-title="Movies HBO",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="Movies HBO",HBO Go Asia Signature
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="Movies",HBO Go Asia Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" tvg-url="" group-title="Movies HBO",HBO Signature
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" tvg-url="" group-title="Movies",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/250px-HBO_Comedy_%282014%29.svg.png" group-title="Movies",HBO Comedy
@@ -154,7 +154,7 @@ https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/piercingmetal.com/wp-content/uploads/2020/07/Logo-Comedy-Central.jpg" group-title="Movies",Comedy Central - 1
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qnyt08V/Comedy-Central-2018-Symbol.png" group-title="Entertainment",Comedy Central - 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qnyt08V/Comedy-Central-2018-Symbol.png" group-title="Movies",Comedy Central - 2
 http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15888
 
 #EXTINF:-1 tvg-id="AmericanClassics.us" tvg-name="American Classics" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WUAXiq1.png" tvg-url="" group-title="Movies",American Classics
@@ -219,11 +219,11 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network UK
 http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/990
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Factual",Discovery Channel Asia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Movi",Discovery Channel Asia
 http://goiptv.co:8080/avatar/fVkKAhhBlr/8962
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="USA",America's Funniest Videos
-https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="Movies",America's Funniest Videos
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.mes3u8
 
 	#SPORTS
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/9/2/9/92974648906048168f2b9fd2e9f3105b_icon.png" group-title="Sports",~ Sports ~
@@ -393,7 +393,7 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Myxphlogo.svg/revision/latest/scale-to-width-down/2000?cb=20201226043939" group-title="Music",MYX 
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/116.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="USA",30A Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Music",30A Music
 http://30a-tv.com/music.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Music",Animals Live
