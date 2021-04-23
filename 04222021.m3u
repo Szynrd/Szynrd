@@ -2,7 +2,10 @@
 
   #PINOY TV SHOW
 #EXTINF:-1 tvg-logo="https://stjulianpatriots.weebly.com/uploads/1/0/8/9/108910925/pinoy-tv-pinoy-tambayan-pinoy-lambingan-pinoy-channel-pinoy-network_orig.jpeg" group-title="Local",~ PINAS TV ~ 
-http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
+https://q6.wewon.to/a/m2/2021/Nobody.2021.mp4?valid=CBwkhQQvLhM3sYW82e8WGQ&t=1619236320
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",Mortal Kombat 2021
+https://q14.wewon.to/a/m2/2021/Mortal.Kombat.2021.20210423.mp4?valid=7L6-ZUcTYXqZF6nWvJ_fNg&t=1619235827
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Kapamilya_Channel_logo.svg/revision/latest/scale-to-width-down/2000?cb=20200819050409" group-title="Local",Kapamilya Channel
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
