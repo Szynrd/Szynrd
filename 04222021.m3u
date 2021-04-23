@@ -384,6 +384,9 @@ https://fluxustv.blogspot.com@bit.ly/FluxusRelax?.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/250px-MTV_Live_HD_2017_logo.svg.png" group-title="Music",MTV Live HD
 http://goiptv.co:8080/avatar/fVkKAhhBlr/3023
 
+#EXTINF:-1 tvg-id="MTV-NO" tvg-name="MTV-NO" tvg-country="NO" tvg-language="Norwegian Bokmål" tvg-logo="https://i.imgur.com/iviMrbO.jpg" tvg-url="" group-title="Music",MTV (720p)
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Myxphlogo.svg/revision/latest/scale-to-width-down/2000?cb=20201226043939" group-title="Music",MYX 
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/116.m3u8
 
