@@ -115,19 +115,19 @@ http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15869
 #EXTINF:-1 tvg-id="WarnerTV.us" tvg-name="Warner TV" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" tvg-url="" group-title="Movies",Warner TV
 http://203.154.243.89:11205/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Movies HBO",HBO - Multi Audio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Movies",HBO - Multi Audio
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family [Asia Feed]" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="Movies HBO",HBO Go Asia Family
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family [Asia Feed]" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="Movies",HBO Go Asia Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" tvg-url="" group-title="Movies HBO",HBO Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" tvg-url="" group-title="Movies",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits [Asia Feed]" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="Movies HBO",HBO Go Asia Hits
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits [Asia Feed]" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="Movies",HBO Go Asia Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/id/HBOHits.id.png" tvg-url="" group-title="Movies HBO",HBO Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/id/HBOHits.id.png" tvg-url="" group-title="Movies",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="Movies",HBO Go Asia Signature
@@ -219,7 +219,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network UK
 http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/990
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Movi",Discovery Channel Asia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Movies",Discovery Channel Asia
 http://goiptv.co:8080/avatar/fVkKAhhBlr/8962
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="Movies",America's Funniest Videos
