@@ -1,5 +1,12 @@
 #EXTM3U
 
+	#BABY SHOW
+#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="BabyFirst TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Bftvlogo2019.png/revision/latest/scale-to-width-down/250?cb=20201208231942" group-title="Kids",BabyFirst TV
+http://cloudcdn.tk:80/AndyJanne/ESSGwH5422/33944
+
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/BabyTV.png/250px-BabyTV.png" group-title="Kids",BabyTV
+http://cloudcdn.tk:80/AndyJanne/ESSGwH5422/11425
+
   #PINOY TV SHOW
 #EXTINF:-1 tvg-logo="https://stjulianpatriots.weebly.com/uploads/1/0/8/9/108910925/pinoy-tv-pinoy-tambayan-pinoy-lambingan-pinoy-channel-pinoy-network_orig.jpeg" group-title="Local",~ PINAS TV ~ 
 https://q6.wewon.to/a/m2/2021/Nobody.2021.mp4?valid=CBwkhQQvLhM3sYW82e8WGQ&t=1619236320
@@ -257,6 +264,9 @@ http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/One_Sports_(TV_network).png/revision/latest/scale-to-width-down/732?cb=20200308081417" group-title="Sports",One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="Sports",NBA TV
+http://cloudcdn.tk:80/AndyJanne/ESSGwH5422/9010
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="Sports",NBA TV - 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -275,6 +285,9 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/122.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Solar-sports-2016.png/revision/latest/scale-to-width-down/2000?cb=20161021013539" group-title="Sports",Solar Sports PH
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/118.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/450px-ESPN2_logo.svg.png" group-title="Sports",ESPN
+http://cloudcdn.tk:80/AndyJanne/ESSGwH5422/9022
 
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Oiniy-Extreme.png" group-title="Sports",Pinoy Xtreme
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/124.m3u8
@@ -436,7 +449,7 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/8/87/MCTV1.png" group-title="Games",Minecraft TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-	#BACK UP
+	#BACK UP 1
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -469,6 +482,42 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/250px-HBO_2_%282014%29.svg.png" group-title="Movies",HBO 2
 http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15876
+
+	#BACK UP 2
+#EXTINF:-1 tvg-id="hbo.us" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
+http://cloudcdn.tk:80/AndyJanne/ESSGwH5422/13685
+
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="HBO Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/250px-HBO_Comedy_%282014%29.svg.png" group-title="Movies",HBO Comedy
+http://ipflix.click:8080/wlth3c8hg/0anib8ywwm/4921
+
+#EXTINF:-1 tvg-id="HBO.ph" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO Asia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/HBO_Family_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113005801" group-title="Movies",HBO Family
+http://cloudcdn.tk:80/AndyJanne/ESSGwH5422/9017
+
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-logo="https://i.ibb.co/7rVLTHd/HBO-Family-Asia.png" group-title="Movies",HBO Family Asia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-logo="https://i.ibb.co/hcqXyL5/HBO-HiTS.png" group-title="Movies",HBO Hits Asia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/HBO_Signature_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113020108" group-title="Movies",HBO Signature
+http://cloudcdn.tk:80/AndyJanne/ESSGwH5422/9016
+
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-logo="https://i.ibb.co/nPV5sNk/HBO-Signature-Asia.png" group-title="Movies",HBO Signature Asia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/250px-HBO_Zone_%282014%29.svg.png" group-title="Movies",HBO Zone
+http://ipflix.click:8080/wlth3c8hg/0anib8ywwm/685177
 
 	#BACK UP xXx
 #EXTINF:-1 tvg-id="A3BIKINITV.us" tvg-name="A3BIKINI TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ikorRe8.png" tvg-url="" group-title="xXx",A3BIKINI TV (720p)
