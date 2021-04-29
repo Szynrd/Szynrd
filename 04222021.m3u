@@ -8,11 +8,8 @@ http://cloudcdn.tk:80/AndyJanne/ESSGwH5422/33944
 http://cloudcdn.tk:80/AndyJanne/ESSGwH5422/11425
 
   #PINOY TV SHOW
-#EXTINF:-1 tvg-logo="https://stjulianpatriots.weebly.com/uploads/1/0/8/9/108910925/pinoy-tv-pinoy-tambayan-pinoy-lambingan-pinoy-channel-pinoy-network_orig.jpeg" group-title="Local",~ PINAS TV ~ 
-https://q6.wewon.to/a/m2/2021/Nobody.2021.mp4?valid=CBwkhQQvLhM3sYW82e8WGQ&t=1619236320
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",Mortal Kombat 2021
-https://q14.wewon.to/a/m2/2021/Mortal.Kombat.2021.20210423.mp4?valid=7L6-ZUcTYXqZF6nWvJ_fNg&t=1619235827
+#EXTINF:-1 tvg-logo="https://stjulianpatriots.weebly.com/uploads/1/0/8/9/108910925/pinoy-tv-pinoy-tambayan-pinoy-lambingan-pinoy-channel-pinoy-network_orig.jpeg" group-title="Local",~ PINAS TV - Preview AMC ~
+http://cloudcdn.tk:80/AndyJanne/ESSGwH5422/13104
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Kapamilya_Channel_logo.svg/revision/latest/scale-to-width-down/2000?cb=20200819050409" group-title="Local",Kapamilya Channel
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
@@ -116,11 +113,17 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Horror_Channel_logo.png/250px-Horror_Channel_logo.png" group-title="Movies",Horror Channel
 http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/13889
 
-#EXTINF:-1 tvg-logo="https://criticalpopcorn.files.wordpress.com/2019/03/share_logo.jpg" group-title="Movies",Rakuten TV (Family Movies)
+#EXTINF:-1 tvg-logo="https://criticalpopcorn.files.wordpress.com/2019/03/share_logo.jpg" group-title="Movies",RakutenTV Family Movies
 https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png" group-title="Movies",Showtime
 http://ac.traveliptv.nl:80/2021extree/ruBpuGaB9tAPYZUH/15869
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png" group-title="Movies",Showtime
+http://cloudcdn.tk:80/AndyJanne/ESSGwH5422/13666
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png" group-title="Movies",Showtime 2
+http://cloudcdn.tk:80/AndyJanne/ESSGwH5422/37838
 
 #EXTINF:-1 tvg-id="WarnerTV.us" tvg-name="Warner TV" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" tvg-url="" group-title="Movies",Warner TV
 http://203.154.243.89:11205/
